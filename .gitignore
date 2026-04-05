@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+applications/
+job_searches/
+approved_examples/
+*.pyc
